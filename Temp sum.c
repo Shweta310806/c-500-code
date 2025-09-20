@@ -13,7 +13,7 @@ void main()
     }
     sum=A+B;
     { 
-       printf("total temperature of the ssnsors is: %2f", sum);
+       printf("total temperature of the sncors is: %2f", sum);
     }
 
 }
