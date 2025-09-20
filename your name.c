@@ -1,6 +1,11 @@
 #include <stdio.h>
 
-int main() {
-    printf("SHWETA\n");
-    return 0;
+void main ()
+ {
+    char A[50];
+    printf("enter your name\n");
+    scanf("%s",A);
+
+    printf("Your name is : %s\n",A);
+
 }
