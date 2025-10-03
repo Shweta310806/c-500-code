@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/SHWETA/OneDrive/Desktop/C Programming/c-500-code-1/100 for loop.c",
-      "program": "c:/Users/SHWETA/OneDrive/Desktop/C Programming/c-500-code-1/100 for loop.c/build/Debug/outDebug",
+      "cwd": "c:/Users/SHWETA/OneDrive/Desktop/C Programming/c-500-code-1/100 for loop",
+      "program": "c:/Users/SHWETA/OneDrive/Desktop/C Programming/c-500-code-1/100 for loop/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
