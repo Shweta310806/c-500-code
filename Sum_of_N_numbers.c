@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) 
+int main() 
 {
     int n;
     printf("Enter number of elements: ");
@@ -18,3 +18,4 @@ int main(void)
     printf("Sum = %ld\nAverage = %.2f\n", sum, avg);
     return 0;
 }
+
